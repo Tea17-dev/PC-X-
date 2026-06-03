@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Ring Despawner
+  m_EditorClassIdentifier: Unity.VisualScripting.Flow::Unity.VisualScripting.ScriptGraphAsset
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":377.3048,"y":-82.8877},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-562.0,"y":-266.0},"guid":"af4798da-0759-494d-8e4d-98c8e353b4ee","$version":"A","$type":"Unity.VisualScripting.OnTriggerEnter2D","$id":"9"},{"chainable":false,"member":{"name":"linearVelocity","parameterTypes":null,"targetType":"UnityEngine.Rigidbody2D","targetTypeName":"UnityEngine.Rigidbody2D","$version":"A"},"defaultValues":{"target":null,"input":{"x":0.0,"y":6.0,"$type":"UnityEngine.Vector2"}},"position":{"x":-133.0,"y":-313.0},"guid":"640d29ef-5fb0-42d9-9a3b-d632ff9582f9","$version":"A","$type":"Unity.VisualScripting.SetMember","$id":"11"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"Player
+      Rigidbody","$type":"System.String"}},"position":{"x":-457.0,"y":-79.0},"guid":"25e473b2-65e1-4a07-8598-f0f1ffc89965","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"14"},{"argumentCount":0,"defaultValues":{"name":{"$content":"Hammer
+      Thrower Ring Despawn","$type":"System.String"},"target":null},"position":{"x":286.0,"y":-351.0},"guid":"6f248df0-1ccb-4a40-bc80-567482223201","$version":"A","$type":"Unity.VisualScripting.TriggerCustomEvent","$id":"16"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Hammer
+      Thrower Dead","$type":"System.String"},"object":null},"position":{"x":46.0,"y":-147.0},"guid":"089fa9b2-6cd0-4554-97f3-492e8d82655c","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"18"},{"chainable":false,"parameterNames":["value"],"member":{"name":"SetActive","parameterTypes":["System.Boolean"],"targetType":"UnityEngine.GameObject","targetTypeName":"UnityEngine.GameObject","$version":"A"},"defaultValues":{"target":null,"%value":{"$content":false,"$type":"System.Boolean"}},"position":{"x":848.0,"y":-330.0},"guid":"370d476a-7953-470b-aa0c-1f5082e407f9","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"20"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"assign","guid":"c57fcd50-7b57-4a32-8767-417f78058dc2","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"11"},"sourceKey":"assigned","destinationUnit":{"$ref":"16"},"destinationKey":"enter","guid":"d4230357-49bb-4121-b846-8655bbd2e34d","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"exit","destinationUnit":{"$ref":"20"},"destinationKey":"enter","guid":"e66742a9-d1f6-4fb2-bf7f-32faccbe897a","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"value","destinationUnit":{"$ref":"11"},"destinationKey":"target","guid":"e6c52daa-78a0-4f5a-bd5d-5b3cd40bc9b4","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"18"},"sourceKey":"value","destinationUnit":{"$ref":"16"},"destinationKey":"target","guid":"c5cfb2ff-39b6-4942-9341-b17d6edfbeec","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

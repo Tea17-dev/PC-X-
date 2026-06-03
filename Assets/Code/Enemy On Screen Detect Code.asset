@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Enemy On Screen Detect Code
+  m_EditorClassIdentifier: Unity.VisualScripting.Flow::Unity.VisualScripting.ScriptGraphAsset
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-581.0,"y":-96.0},"guid":"dc6005b3-4e94-40fb-aa5a-17209ac4e3f8","$version":"A","$type":"Unity.VisualScripting.OnTriggerStay2D","$id":"9"},{"kind":"Scene","defaultValues":{"name":{"$content":"Enemy
+      On Camera","$type":"System.String"}},"position":{"x":-192.0,"y":-101.0},"guid":"68c1b184-6f43-4b00-b8c9-bb0d65436267","$version":"A","$type":"Unity.VisualScripting.SetVariable","$id":"11"},{"type":"System.Boolean","value":{"$content":true,"$type":"System.Boolean"},"defaultValues":{},"position":{"x":-342.0,"y":31.0},"guid":"72f47ec6-e5a8-4d17-93d4-ea3670b83a52","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"13"},{"kind":"Scene","defaultValues":{"name":{"$content":"Enemy
+      On Camera","$type":"System.String"}},"position":{"x":-226.0,"y":209.0},"guid":"c62754e5-119e-45c2-8146-66cd90bb2873","$version":"A","$type":"Unity.VisualScripting.SetVariable","$id":"15"},{"type":"System.Boolean","value":{"$content":false,"$type":"System.Boolean"},"defaultValues":{},"position":{"x":-376.0,"y":341.0},"guid":"fa1d6e4a-75ad-4b9f-a6c5-950c8012e4b8","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"17"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-615.0,"y":214.0},"guid":"33076675-5293-470f-bd7e-c548ec81a50d","$version":"A","$type":"Unity.VisualScripting.OnTriggerExit2D","$id":"19"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"assign","guid":"fa7db61c-cbf5-457a-b3f0-572c2dd8f324","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"19"},"sourceKey":"trigger","destinationUnit":{"$ref":"15"},"destinationKey":"assign","guid":"a764e6c0-0712-46bb-808b-21f076fb926c","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"output","destinationUnit":{"$ref":"11"},"destinationKey":"input","guid":"c9175a70-8b08-4f2b-968b-02bef4a78b90","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"output","destinationUnit":{"$ref":"15"},"destinationKey":"input","guid":"c5b2be8e-641c-4a95-bfec-6fc666efcd17","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

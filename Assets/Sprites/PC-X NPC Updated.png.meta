@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 8c4d0411612c17e42a6dcee958e99ad4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4666633281614582158
+    second: PC-X NPC Updated_0
+  - first:
+      213: 1079399330793243179
+    second: PC-X NPC Updated_1
+  - first:
+      213: 249403041907301678
+    second: PC-X NPC Updated_2
+  - first:
+      213: -8299409976860472017
+    second: PC-X NPC Updated_3
+  - first:
+      213: 7793868774246103828
+    second: PC-X NPC Updated_4
+  - first:
+      213: -5045264583160423109
+    second: PC-X NPC Updated_5
+  - first:
+      213: -4841042206016684774
+    second: PC-X NPC Updated_6
+  - first:
+      213: -2278323625884426271
+    second: PC-X NPC Updated_7
+  - first:
+      213: -355724276304108802
+    second: PC-X NPC Updated_8
+  - first:
+      213: 260724368549133908
+    second: PC-X NPC Updated_9
+  - first:
+      213: -3692621914944655002
+    second: PC-X NPC Updated_10
+  - first:
+      213: 8813567686485761555
+    second: PC-X NPC Updated_11
+  - first:
+      213: 9207368247279211441
+    second: PC-X NPC Updated_12
+  - first:
+      213: 4482002719864088281
+    second: PC-X NPC Updated_13
+  - first:
+      213: 6360658067433479168
+    second: PC-X NPC Updated_14
+  - first:
+      213: -2118232840440649799
+    second: PC-X NPC Updated_15
+  - first:
+      213: 1505549548568057994
+    second: PC-X NPC Updated_16
+  - first:
+      213: -4706503088220472811
+    second: PC-X NPC Updated_17
+  - first:
+      213: 292259791174106927
+    second: PC-X NPC Updated_18
+  - first:
+      213: -3889011710974923751
+    second: PC-X NPC Updated_19
+  - first:
+      213: -6580267260611282035
+    second: PC-X NPC Updated_20
+  - first:
+      213: -5196552700581104072
+    second: PC-X NPC Updated_21
+  - first:
+      213: -8856708838830553432
+    second: PC-X NPC Updated_22
+  - first:
+      213: 6645603210936343711
+    second: PC-X NPC Updated_23
+  - first:
+      213: -2356867788697500245
+    second: PC-X NPC Updated_24
+  - first:
+      213: -1216308787429005332
+    second: PC-X NPC Updated_25
+  - first:
+      213: 7294839492493099725
+    second: PC-X NPC Updated_26
+  - first:
+      213: 37300108896129670
+    second: PC-X NPC Updated_27
+  - first:
+      213: 7223593350621922228
+    second: PC-X NPC Updated_28
+  - first:
+      213: -1935473755429298031
+    second: PC-X NPC Updated_29
+  - first:
+      213: 8853615326854116867
+    second: PC-X NPC Updated_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC-X NPC Updated_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 128
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bd6d677550a754b9a63f8ecc59205b
+      internalID: 671830392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X NPC Updated_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 304
+        width: 128
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0852f8d3c89f5a144b72c7e48b4a8837
+      internalID: -1375103568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X NPC Updated_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 312
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9904f8873f082c43bd4b340d95e742b
+      internalID: 1874244764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X NPC Updated_3
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 304
+        width: 128
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fe3912aa7234a43906ebc33722c63d
+      internalID: 1059941561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X NPC Updated_4
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 302
+        width: 129
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdf42b7768e00a428ef9af8a5b67f5f
+      internalID: -1522528410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X NPC Updated_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 128
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72c80e8a02888b47a37fcfae254e85c
+      internalID: -79032867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X NPC Updated_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 50
+        width: 126
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b5726e56dd9304f99d3eec63074e0d
+      internalID: 410812253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X NPC Updated_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 55
+        width: 128
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e8092cfafa60428343b378718fca3
+      internalID: 596811237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 32dc48b1e84d2b34591865521ca01eaa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC-X NPC Updated_0: 671830392
+      PC-X NPC Updated_1: -1375103568
+      PC-X NPC Updated_2: 1874244764
+      PC-X NPC Updated_3: 1059941561
+      PC-X NPC Updated_4: -1522528410
+      PC-X NPC Updated_5: -79032867
+      PC-X NPC Updated_6: 410812253
+      PC-X NPC Updated_7: 596811237
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

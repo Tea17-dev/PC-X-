@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 025bf33ac8149824ca4b3c48cb20e983
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 679400530080460620
+    second: PC-X UPDATED ART (1)_0
+  - first:
+      213: 4317344517674669098
+    second: PC-X UPDATED ART (1)_1
+  - first:
+      213: 6067931376046093628
+    second: PC-X UPDATED ART (1)_2
+  - first:
+      213: 5752837041008292299
+    second: PC-X UPDATED ART (1)_3
+  - first:
+      213: -42879918887423555
+    second: PC-X UPDATED ART (1)_4
+  - first:
+      213: 8594406269132246556
+    second: PC-X UPDATED ART (1)_5
+  - first:
+      213: -1217235083093922895
+    second: PC-X UPDATED ART (1)_6
+  - first:
+      213: -259208146680516345
+    second: PC-X UPDATED ART (1)_7
+  - first:
+      213: -3009300446421373741
+    second: PC-X UPDATED ART (1)_8
+  - first:
+      213: -3796326445392717067
+    second: PC-X UPDATED ART (1)_9
+  - first:
+      213: -534016369501419098
+    second: PC-X UPDATED ART (1)_10
+  - first:
+      213: -1226055796853804466
+    second: PC-X UPDATED ART (1)_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC-X UPDATED ART (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6863
+        width: 2289
+        height: 2274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f68a7be27bd6900800000000000000
+      internalID: 679400530080460620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X UPDATED ART (1)_1
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 6863
+        width: 2242
+        height: 2274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a249afce6f94aeb30800000000000000
+      internalID: 4317344517674669098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X UPDATED ART (1)_2
+      rect:
+        serializedVersion: 2
+        x: 4663
+        y: 6863
+        width: 2201
+        height: 2274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35bcaeef6f953450800000000000000
+      internalID: 6067931376046093628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X UPDATED ART (1)_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4575
+        width: 2194
+        height: 2274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc132081fce26df40800000000000000
+      internalID: 5752837041008292299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X UPDATED ART (1)_4
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 4575
+        width: 2242
+        height: 2274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1b7b2e0f8a76ff0800000000000000
+      internalID: -42879918887423555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X UPDATED ART (1)_5
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 4575
+        width: 2274
+        height: 2274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e840777f6754770800000000000000
+      internalID: 8594406269132246556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X UPDATED ART (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2287
+        width: 2257
+        height: 2274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb2b0024238b1fe0800000000000000
+      internalID: -1217235083093922895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X UPDATED ART (1)_7
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 2287
+        width: 2234
+        height: 2274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701783e509b176cf0800000000000000
+      internalID: -259208146680516345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X UPDATED ART (1)_8
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 2287
+        width: 2210
+        height: 2274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc21ac1031dc36d0800000000000000
+      internalID: -3009300446421373741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X UPDATED ART (1)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2233
+        height: 2273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa12f2363db05bc0800000000000000
+      internalID: -3796326445392717067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X UPDATED ART (1)_10
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 0
+        width: 2250
+        height: 2273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9cf97f0fac698f0800000000000000
+      internalID: -534016369501419098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-X UPDATED ART (1)_11
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 0
+        width: 2274
+        height: 2273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4278b9afbc2cfee0800000000000000
+      internalID: -1226055796853804466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC-X UPDATED ART (1)_0: 679400530080460620
+      PC-X UPDATED ART (1)_1: 4317344517674669098
+      PC-X UPDATED ART (1)_10: -534016369501419098
+      PC-X UPDATED ART (1)_11: -1226055796853804466
+      PC-X UPDATED ART (1)_2: 6067931376046093628
+      PC-X UPDATED ART (1)_3: 5752837041008292299
+      PC-X UPDATED ART (1)_4: -42879918887423555
+      PC-X UPDATED ART (1)_5: 8594406269132246556
+      PC-X UPDATED ART (1)_6: -1217235083093922895
+      PC-X UPDATED ART (1)_7: -259208146680516345
+      PC-X UPDATED ART (1)_8: -3009300446421373741
+      PC-X UPDATED ART (1)_9: -3796326445392717067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

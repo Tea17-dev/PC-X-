@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Title Screen Music Code
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":50.479,"y":716.5774},"zoom":1.0,"elements":[{"chainable":false,"member":{"name":"mute","parameterTypes":null,"targetType":"UnityEngine.AudioSource","targetTypeName":"UnityEngine.AudioSource","$version":"A"},"defaultValues":{"target":null,"input":{"$content":true,"$type":"System.Boolean"}},"position":{"x":6.0,"y":-100.0},"guid":"3958ae9f-330f-4c0f-a1b6-2a46b2d3db81","$version":"A","$type":"Unity.VisualScripting.SetMember","$id":"9"},{"chainable":false,"member":{"name":"mute","parameterTypes":null,"targetType":"UnityEngine.AudioSource","targetTypeName":"UnityEngine.AudioSource","$version":"A"},"defaultValues":{"target":null,"input":{"$content":false,"$type":"System.Boolean"}},"position":{"x":12.0,"y":-322.0},"guid":"a8905bc3-8dc3-42ff-9435-87511e6dcd4a","$version":"A","$type":"Unity.VisualScripting.SetMember","$id":"12"},{"coroutine":false,"defaultValues":{},"position":{"x":-357.0,"y":-379.0},"guid":"08dc6533-cf5e-492f-972f-790b6d3933d2","$version":"A","$type":"Unity.VisualScripting.Start","$id":"15"},{"argumentCount":0,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"Game
+      Start","$type":"System.String"}},"position":{"x":-260.0,"y":-20.0},"guid":"21bf3acd-675e-4ada-9961-10e0cd9692d9","$version":"A","$type":"Unity.VisualScripting.CustomEvent","$id":"17"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Game
+      Start","$type":"System.String"},"object":null},"position":{"x":-474.0,"y":7.0},"guid":"4b158ce4-15a2-4019-a0d6-c74b4b674ecb","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"19"},{"sourceUnit":{"$ref":"15"},"sourceKey":"trigger","destinationUnit":{"$ref":"12"},"destinationKey":"assign","guid":"be397eed-fe08-45a7-859e-ed40dab9b1ab","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"trigger","destinationUnit":{"$ref":"9"},"destinationKey":"assign","guid":"0bb10746-7971-44db-a7c5-c3cab9991e06","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"19"},"sourceKey":"value","destinationUnit":{"$ref":"17"},"destinationKey":"target","guid":"aabb8e83-3790-4cd4-a20e-439547f47f38","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
